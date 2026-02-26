@@ -21,7 +21,7 @@ Bu proje **klaw212** tarafından geliştirilmiştir.
 
 ### 🧩 Gereksinimler
 - Python 3.10 veya üzeri
-- PyQt5 veya PyQt6
+- PyQt6
 - PyQtWebEngine
 
 ---
